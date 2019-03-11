@@ -18,6 +18,6 @@
 <title>글 목록</title>
 </head>
 <body>
-<h1>글 목록</h1>
+<h1>글 목록</h1> 
 </body>
 </html>
